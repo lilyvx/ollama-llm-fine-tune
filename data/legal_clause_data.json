@@ -1,0 +1,82 @@
+[
+  {
+    "prompt": "This Agreement is entered into between Meridian Textiles Sdn Bhd (\"Supplier\") and Northgate Retail Group (\"Buyer\"). The Supplier shall deliver all ordered goods within thirty (30) days of receiving a purchase order. This Agreement shall take effect on 1 March 2025. Failure to deliver within the stipulated period shall result in a penalty of 2% of the order value per week of delay, up to a maximum of 10%.",
+    "response": "{\"party_names\": [\"Meridian Textiles Sdn Bhd\", \"Northgate Retail Group\"], \"obligation\": \"Supplier must deliver ordered goods within 30 days of receiving a purchase order\", \"effective_date\": \"2025-03-01\", \"penalty_clause\": \"2% of order value per week of delay, capped at 10%\"}"
+  },
+  {
+    "prompt": "Between Harrison & Wells LLP (\"Landlord\") and Oakview Consulting Pte Ltd (\"Tenant\"), this Lease Agreement grants the Tenant use of the premises located at 12 Jalan Ampang for a term of two years commencing 15 June 2024. The Tenant agrees to pay monthly rent by the 5th of each month. No specific penalty is outlined for late delivery of goods, as this is a lease agreement.",
+    "response": "{\"party_names\": [\"Harrison & Wells LLP\", \"Oakview Consulting Pte Ltd\"], \"obligation\": \"Tenant must pay monthly rent by the 5th of each month\", \"effective_date\": \"2024-06-15\", \"penalty_clause\": \"None specified\"}"
+  },
+  {
+    "prompt": "This Non-Disclosure Agreement is made between Verdant Biotech Inc. and Clearwater Labs Sdn Bhd. Both parties agree to keep all shared technical data confidential for a period of five years from the effective date of 1 September 2023. Any breach of confidentiality shall entitle the disclosing party to seek damages of no less than USD 50,000.",
+    "response": "{\"party_names\": [\"Verdant Biotech Inc.\", \"Clearwater Labs Sdn Bhd\"], \"obligation\": \"Both parties must keep shared technical data confidential for five years\", \"effective_date\": \"2023-09-01\", \"penalty_clause\": \"Damages of no less than USD 50,000 for breach of confidentiality\"}"
+  },
+  {
+    "prompt": "Pursuant to this Service Agreement between Brightline Logistics and Kelana IT Solutions, the Contractor shall provide network maintenance services on a monthly basis beginning 1 January 2025. The Contractor is required to respond to critical outage reports within four hours. Late response beyond four hours will incur a service credit equal to 5% of the monthly fee for each hour of delay.",
+    "response": "{\"party_names\": [\"Brightline Logistics\", \"Kelana IT Solutions\"], \"obligation\": \"Contractor must respond to critical outage reports within four hours\", \"effective_date\": \"2025-01-01\", \"penalty_clause\": \"Service credit of 5% of monthly fee per hour of delay beyond four hours\"}"
+  },
+  {
+    "prompt": "This Employment Contract is signed between Titan Manufacturing Bhd (\"Employer\") and the employee named herein. The employee shall commence work on 10 April 2025 and is required to provide one month's written notice prior to resignation. Failure to serve the notice period will result in forfeiture of the final month's salary.",
+    "response": "{\"party_names\": [\"Titan Manufacturing Bhd\", \"Employee\"], \"obligation\": \"Employee must provide one month's written notice before resignation\", \"effective_date\": \"2025-04-10\", \"penalty_clause\": \"Forfeiture of final month's salary if notice period is not served\"}"
+  },
+  {
+    "prompt": "Under this Licensing Agreement between Sundial Software Corp and Ferrous Systems Sdn Bhd, the Licensee is granted a non-exclusive right to use the Licensor's software starting 1 July 2024. The Licensee must not sublicense the software to third parties without written consent. No monetary penalty is specified in this agreement for unauthorized sublicensing beyond immediate termination of the license.",
+    "response": "{\"party_names\": [\"Sundial Software Corp\", \"Ferrous Systems Sdn Bhd\"], \"obligation\": \"Licensee must not sublicense the software without written consent\", \"effective_date\": \"2024-07-01\", \"penalty_clause\": \"None specified beyond immediate license termination\"}"
+  },
+  {
+    "prompt": "This Supply Agreement is made between Golden Harvest Foods Sdn Bhd (\"Supplier\") and Prestige Hotels Group (\"Buyer\"), effective from 1 October 2024. The Supplier shall maintain a minimum stock level of 500 units at all times to meet the Buyer's demand. Failing to maintain minimum stock will result in the Supplier covering the cost difference for emergency sourcing from a third party.",
+    "response": "{\"party_names\": [\"Golden Harvest Foods Sdn Bhd\", \"Prestige Hotels Group\"], \"obligation\": \"Supplier must maintain a minimum stock level of 500 units at all times\", \"effective_date\": \"2024-10-01\", \"penalty_clause\": \"Supplier covers cost difference for emergency third-party sourcing\"}"
+  },
+  {
+    "prompt": "This Partnership Agreement between Ridgeline Ventures and Solstice Capital Partners establishes a joint venture effective 1 February 2025. Both parties agree to contribute equally to operating costs on a quarterly basis. Any partner failing to make their quarterly contribution within 15 days of the due date will have their profit share reduced by 10% for that quarter.",
+    "response": "{\"party_names\": [\"Ridgeline Ventures\", \"Solstice Capital Partners\"], \"obligation\": \"Both partners must contribute equally to operating costs on a quarterly basis\", \"effective_date\": \"2025-02-01\", \"penalty_clause\": \"10% reduction in profit share for that quarter if contribution is late by more than 15 days\"}"
+  },
+  {
+    "prompt": "This Loan Agreement is entered into between Apex Capital Sdn Bhd (\"Lender\") and Silverline Trading Co (\"Borrower\"). The Borrower shall repay the principal sum in twelve equal monthly installments beginning 1 May 2024. Any missed installment will accrue interest at a rate of 1.5% per month on the outstanding balance.",
+    "response": "{\"party_names\": [\"Apex Capital Sdn Bhd\", \"Silverline Trading Co\"], \"obligation\": \"Borrower must repay the principal in twelve equal monthly installments\", \"effective_date\": \"2024-05-01\", \"penalty_clause\": \"1.5% monthly interest on outstanding balance for missed installments\"}"
+  },
+  {
+    "prompt": "This Franchise Agreement between Coastal Brews Franchising Sdn Bhd and the Franchisee grants the right to operate under the Coastal Brews brand starting 1 August 2025. The Franchisee must adhere to brand standards and undergo an annual compliance audit. Non-compliance identified during the audit must be rectified within 30 days, failing which the franchise license may be revoked.",
+    "response": "{\"party_names\": [\"Coastal Brews Franchising Sdn Bhd\", \"Franchisee\"], \"obligation\": \"Franchisee must adhere to brand standards and pass annual compliance audits\", \"effective_date\": \"2025-08-01\", \"penalty_clause\": \"Franchise license may be revoked if non-compliance is not rectified within 30 days\"}"
+  },
+  {
+    "prompt": "This Distribution Agreement is made between Panorama Electronics Manufacturing and Highstreet Distributors Sdn Bhd, effective 15 November 2024. The Distributor is obligated to achieve minimum quarterly sales targets of RM 200,000. Falling short of the target for two consecutive quarters entitles the Manufacturer to terminate the exclusivity clause of this agreement.",
+    "response": "{\"party_names\": [\"Panorama Electronics Manufacturing\", \"Highstreet Distributors Sdn Bhd\"], \"obligation\": \"Distributor must achieve minimum quarterly sales targets of RM 200,000\", \"effective_date\": \"2024-11-15\", \"penalty_clause\": \"Termination of exclusivity clause if targets are missed for two consecutive quarters\"}"
+  },
+  {
+    "prompt": "This Consultancy Agreement between Beacon Strategy Advisors and Marlowe Industries Bhd commences on 1 December 2024. The Consultant shall submit a detailed progress report at the end of each month. There is no financial penalty prescribed for late submission of reports, though repeated delays may be grounds for contract review.",
+    "response": "{\"party_names\": [\"Beacon Strategy Advisors\", \"Marlowe Industries Bhd\"], \"obligation\": \"Consultant must submit a detailed progress report at the end of each month\", \"effective_date\": \"2024-12-01\", \"penalty_clause\": \"None specified, though repeated delays may lead to contract review\"}"
+  },
+  {
+    "prompt": "This Joint Development Agreement between Fenwick Robotics Sdn Bhd and Cascade AI Labs is effective from 1 April 2025. Both parties shall jointly own any intellectual property developed under this agreement. Any party found to be filing patents independently without joint consent shall forfeit their share of royalties from the disputed invention.",
+    "response": "{\"party_names\": [\"Fenwick Robotics Sdn Bhd\", \"Cascade AI Labs\"], \"obligation\": \"Both parties must jointly own intellectual property developed under the agreement\", \"effective_date\": \"2025-04-01\", \"penalty_clause\": \"Forfeiture of royalty share for filing patents independently without joint consent\"}"
+  },
+  {
+    "prompt": "This Maintenance Services Contract between Ironclad Facilities Management and Summit Tower Management Corporation begins 1 June 2025. The Contractor must conduct fire safety inspections on a quarterly basis. Missing a scheduled inspection without valid reason results in a fixed penalty of RM 5,000 per missed inspection.",
+    "response": "{\"party_names\": [\"Ironclad Facilities Management\", \"Summit Tower Management Corporation\"], \"obligation\": \"Contractor must conduct fire safety inspections on a quarterly basis\", \"effective_date\": \"2025-06-01\", \"penalty_clause\": \"RM 5,000 fixed penalty per missed inspection without valid reason\"}"
+  },
+  {
+    "prompt": "This Reseller Agreement between Quantum Cloud Solutions and Bayfront Systems Integration takes effect on 1 September 2024. The Reseller is required to complete product certification training within 60 days of signing. There is no monetary penalty for late certification, but the Reseller cannot sell products until certification is completed.",
+    "response": "{\"party_names\": [\"Quantum Cloud Solutions\", \"Bayfront Systems Integration\"], \"obligation\": \"Reseller must complete product certification training within 60 days of signing\", \"effective_date\": \"2024-09-01\", \"penalty_clause\": \"None specified, though sales are restricted until certification is completed\"}"
+  },
+  {
+    "prompt": "This Construction Contract between Everstrong Builders Sdn Bhd and Meridian Property Developers is effective from 1 March 2024. The Contractor must complete the project within 18 months of the effective date. Delays beyond the deadline will incur liquidated damages of RM 10,000 per day of delay.",
+    "response": "{\"party_names\": [\"Everstrong Builders Sdn Bhd\", \"Meridian Property Developers\"], \"obligation\": \"Contractor must complete the project within 18 months of the effective date\", \"effective_date\": \"2024-03-01\", \"penalty_clause\": \"Liquidated damages of RM 10,000 per day of delay\"}"
+  },
+  {
+    "prompt": "This Insurance Brokerage Agreement between Falcon Risk Advisors and Redwood Manufacturing Group commences 1 July 2025. The Broker shall review and renew the Client's policy coverage annually. Failure to notify the Client of upcoming renewal deadlines at least 30 days in advance may result in the Broker being liable for any resulting coverage lapse.",
+    "response": "{\"party_names\": [\"Falcon Risk Advisors\", \"Redwood Manufacturing Group\"], \"obligation\": \"Broker must review and renew the Client's policy coverage annually, notifying at least 30 days before renewal deadlines\", \"effective_date\": \"2025-07-01\", \"penalty_clause\": \"Broker liable for any coverage lapse resulting from late notification\"}"
+  },
+  {
+    "prompt": "This Software Development Agreement between Lumen Digital Studio and Northbridge Financial Services is effective 1 October 2025. The Developer must deliver the completed application in three milestone phases, with the final delivery due within nine months. Each missed milestone deadline results in a 5% reduction of that milestone's payment.",
+    "response": "{\"party_names\": [\"Lumen Digital Studio\", \"Northbridge Financial Services\"], \"obligation\": \"Developer must deliver the application in three milestone phases within nine months\", \"effective_date\": \"2025-10-01\", \"penalty_clause\": \"5% reduction of milestone payment for each missed deadline\"}"
+  },
+  {
+    "prompt": "This Warehousing Agreement between Cargostream Storage Solutions and Vantage Retail Holdings begins 1 January 2026. The Warehouse Operator must maintain climate-controlled storage conditions at all times for perishable goods. Any spoilage resulting from failure to maintain proper conditions shall be fully compensated by the Operator at market value of the goods lost.",
+    "response": "{\"party_names\": [\"Cargostream Storage Solutions\", \"Vantage Retail Holdings\"], \"obligation\": \"Warehouse Operator must maintain climate-controlled storage conditions for perishable goods at all times\", \"effective_date\": \"2026-01-01\", \"penalty_clause\": \"Full compensation at market value for spoilage caused by improper storage conditions\"}"
+  },
+  {
+    "prompt": "This Talent Management Agreement between Spotlight Artist Management and the represented Artist is effective 1 May 2025. The Agency shall secure a minimum of four commercial engagements per year on behalf of the Artist. If fewer than four engagements are secured, the Artist may terminate the agreement without penalty at the end of the contract year.",
+    "response": "{\"party_names\": [\"Spotlight Artist Management\", \"Artist\"], \"obligation\": \"Agency must secure a minimum of four commercial engagements per year for the Artist\", \"effective_date\": \"2025-05-01\", \"penalty_clause\": \"Artist may terminate without penalty if fewer than four engagements are secured in the contract year\"}"
+  }
+]
